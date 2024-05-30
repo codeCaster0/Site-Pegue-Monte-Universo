@@ -1,7 +1,7 @@
 # Site - Pegue Monte Universo
-<div>
 > Site institucional para a empresa de decorações Pegue Monte Universo.
-</div>
+
+<div></div>
 <br> <h3> <b>Projeto em desenvolvimento</b> </h3> <br>
 
 ## Ferramentas utilizadas:
