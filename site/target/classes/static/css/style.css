@@ -1,0 +1,106 @@
+.cor-navbar {
+            background-color: #6b006b;
+        }
+
+        .cor-navbar .nav-link {
+            color: white;
+        }
+
+        .cor-navbar .nav-link:hover {
+            color: #D8B5FF;
+        }
+
+        .vertical-divider {
+            border-left: 1px solid #D8B5FF;
+            height: 40px;
+            margin: auto 4px;
+        }
+
+        .card-img-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.4);
+            z-index: 1;
+        }
+
+        .card-quadrado {
+            border-radius: 0;
+            border: none;
+        }
+
+        .highlight {
+            background-color: #c60f62;
+        }
+
+        .logo-Instagram {
+            height: 1.5rem;
+            width: auto;
+        }
+
+        .logo-Facebook {
+            height: 1.1rem;
+            width: 1.3rem;
+        }
+
+        .logo-Whatsapp {
+            height: 1.5rem;
+            width: auto;
+        }
+
+        .icone-Whatsapp {
+            height: 1.5rem;
+            width: 1.2;
+        }
+
+        .fundo-card {
+            background-color: #2a3133;
+        }
+
+        .card-img {
+            border-radius: 0;
+            margin: 0; /* Remove margem */
+        }
+
+        .card {
+            border: none; /* Remove borda */
+        }
+
+        .titulo-cor {
+            color: white;
+        } 
+
+        .bronze-cor {
+            color: #cd7f32;
+        }
+
+        .highlight-bronze {
+            background-color:  #cd7f32;
+        }
+
+        .prata-cor {
+            color: #CCCCCC;
+        }
+
+        .highlight-prata {
+            background-color:  #CCCCCC;
+        }
+
+        .ouro-cor {
+            color: #FFdF00;
+        }
+
+        .highlight-ouro {
+            background-color: #FFdF00;
+        }
+
+        .fundo-footer { 
+            background-color: #16191E;
+            border-color: #757575;
+        }
+
+        .whatsapp-cor {
+            color: #00ab00;
+        }

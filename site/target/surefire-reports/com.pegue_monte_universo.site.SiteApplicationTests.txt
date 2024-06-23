@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pegue_monte_universo.site.SiteApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.904 s -- in com.pegue_monte_universo.site.SiteApplicationTests
